@@ -14,16 +14,20 @@ visual-finance/
 
 ## Components
 
-### 📦 Extension
+<a id="-extension"></a>
+###  Extension
 Chrome extension for browser-based financial data capture and visualization.
 
-### 🤖 Backend
+<a id="-backend"></a>
+###  Backend
 AI-powered API services for financial analysis and data processing.
 
-### 🌐 Web
+<a id="-web"></a>
+###  Web
 Dashboard and portfolio management web application.
 
-### 📊 PPT
+<a id="-ppt"></a>
+###  PPT
 Pitch decks and presentation materials.
 
 ## Getting Started
